@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,sch.uk
+DOMAIN-SUFFIX,thorleyhill.herts.sch.uk
+DOMAIN-SUFFIX,perplexity.ai
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
